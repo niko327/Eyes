@@ -1,4 +1,4 @@
-# Bus Stops between MIT and Harvard
+# Eyes Assignment
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-This project shows all the bus stops from MIT to Harvard. This was an exercise to help understand how to call portions of the API from MapBox to create an animated route from MIT to Harvard.
+This project shows a pair of eyes that will follow your mouse around as you move it.
 
 ## How to run
 
